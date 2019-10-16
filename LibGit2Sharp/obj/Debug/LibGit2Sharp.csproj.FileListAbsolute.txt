@@ -1,0 +1,15 @@
+c:\users\jerome\documents\visual studio 2015\Projects\LibGit2Sharp\LibGit2Sharp\bin\Debug\LibGit2Sharp.exe.config
+c:\users\jerome\documents\visual studio 2015\Projects\LibGit2Sharp\LibGit2Sharp\bin\Debug\LibGit2Sharp.exe
+c:\users\jerome\documents\visual studio 2015\Projects\LibGit2Sharp\LibGit2Sharp\bin\Debug\LibGit2Sharp.pdb
+c:\users\jerome\documents\visual studio 2015\Projects\LibGit2Sharp\LibGit2Sharp\obj\Debug\LibGit2Sharp.csprojResolveAssemblyReference.cache
+c:\users\jerome\documents\visual studio 2015\Projects\LibGit2Sharp\LibGit2Sharp\obj\Debug\LibGit2Sharp.exe
+c:\users\jerome\documents\visual studio 2015\Projects\LibGit2Sharp\LibGit2Sharp\obj\Debug\LibGit2Sharp.pdb
+c:\users\jerome\documents\visual studio 2015\Projects\LibGit2Sharp\LibGit2Sharp\bin\Debug\lib\win32\x64\git2-dd2d538.dll
+c:\users\jerome\documents\visual studio 2015\Projects\LibGit2Sharp\LibGit2Sharp\bin\Debug\lib\win32\x64\git2-dd2d538.pdb
+c:\users\jerome\documents\visual studio 2015\Projects\LibGit2Sharp\LibGit2Sharp\bin\Debug\lib\win32\x86\git2-dd2d538.dll
+c:\users\jerome\documents\visual studio 2015\Projects\LibGit2Sharp\LibGit2Sharp\bin\Debug\lib\win32\x86\git2-dd2d538.pdb
+c:\users\jerome\documents\visual studio 2015\Projects\LibGit2Sharp\LibGit2Sharp\bin\Debug\lib\osx\libgit2-dd2d538.dylib
+c:\users\jerome\documents\visual studio 2015\Projects\LibGit2Sharp\LibGit2Sharp\bin\Debug\lib\linux\x86_64\libgit2-dd2d538.so
+c:\users\jerome\documents\visual studio 2015\Projects\LibGit2Sharp\LibGit2Sharp\bin\Debug\LibGit2Sharp.dll.config
+c:\users\jerome\documents\visual studio 2015\Projects\LibGit2Sharp\LibGit2Sharp\bin\Debug\LibGit2Sharp.dll
+c:\users\jerome\documents\visual studio 2015\Projects\LibGit2Sharp\LibGit2Sharp\bin\Debug\LibGit2Sharp.xml
