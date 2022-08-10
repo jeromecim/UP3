@@ -28,6 +28,7 @@ namespace LibGit2Sharp
                     $"{commit.MessageShort} " +
                     $"{commit.Author.Name}");
             }
+	    Console.ReadKey();
             Console.ReadKey();
         }
     }
